@@ -13,3 +13,5 @@ class3: https://console.cloud.google.com/bigquery?sq=163523281184:d7e1a5766cab41
 class4: https://console.cloud.google.com/bigquery?sq=163523281184:2c2f51c122c84fafa062fb02235caa63
 
 class5: https://console.cloud.google.com/bigquery?sq=163523281184:c686d87f13854f9b955e9274c7ed2ef8
+
+class6: https://console.cloud.google.com/bigquery?sq=163523281184:4774dbfacabd4358a93f957ee5695275
